@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-04-08T12:01:45.955Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="s9hnqgC2NRoezswGK5R-" version="24.1.0" type="device">
+<mxfile host="Electron" modified="2024-04-19T10:50:35.613Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Tz-kGyrv2t4rTDy-qZoY" version="24.1.0" type="device">
   <diagram name="Page-1" id="bLCGhRyFuuZeX_9Asj9D">
-    <mxGraphModel dx="9080" dy="4416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3430" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="370" y="479.8" width="2210" height="620" as="geometry" />
         </mxCell>
         <mxCell id="dOEUqFh9uXieKaGuI0-Z-3" value="Python application space" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;fontStyle=1;align=left;spacing=9;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=1.5;lucidId=uomkAWNqSnUE;" parent="1" vertex="1">
-          <mxGeometry x="92" y="642.62" width="239" height="75" as="geometry" />
+          <mxGeometry x="90" y="642.62" width="239" height="75" as="geometry" />
         </mxCell>
         <mxCell id="dOEUqFh9uXieKaGuI0-Z-4" value="GStreamer space" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;fontStyle=1;align=left;spacing=9;verticalAlign=middle;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;strokeWidth=1.5;lucidId=13mkEYLY9BoW;" parent="1" vertex="1">
           <mxGeometry x="92" y="697.46" width="239" height="90" as="geometry" />
